@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "vars";
+@import "fonts";
+@import "../fonts/icomoon/style.css";
+@import "global";
+@import "elements";
+@import "typo";
