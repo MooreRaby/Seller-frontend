@@ -1,10 +1,13 @@
 Star⭐ the repo if you like what you see😉.
 # 1. Dashboard Page
-<img src="src/assets/images/Screenshot 2024-03-22 091721.png" >
-# 2. Menu Nav
-<img src="src/assets/images/Screenshot 2024-03-22 091817.png" >
-# 1. Order Page
+<img src="src/assets/images/Screenshot 2024-03-22 091721.png"
+
+# 2. Menu nav
+<img src="src/assets/images/Screenshot 2024-03-22 091817.png">
+
+# 3. Order Page
 <img src="src/assets/images/Screenshot 2024-03-22 091842.png" >
+
 ## Getting started
 
 #### Developed with:
