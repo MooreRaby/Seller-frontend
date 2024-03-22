@@ -1,3 +1,8 @@
+Star⭐ the repo if you like what you see😉.
+# 1. Dashboard Screen
+<img src="src/assets/images/Screenshot 2024-03-22 091721.png" >
+
+
 ## Getting started
 
 #### Developed with:
